@@ -1,10 +1,4 @@
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
+         body {
             background-color: #f5f3f0;
             font-family: Arial, sans-serif;
             min-height: 100vh;
@@ -41,20 +35,20 @@
             bottom: -50px;
         }
 
-        .content h4 {
+        .contenido h4 {
             color: #a18c69;
             letter-spacing: 2px;
             margin-bottom: 20px;
         }
 
-        .content h1 {
+        .contenido h1 {
             font-family: Georgia, serif;
             font-size: 100px;
             line-height: 0.95;
             margin-bottom: 35px;
         }
 
-        .content button {
+        .contenido button {
             background-color: #079eaa;
             color: white;
             border: none;
@@ -64,6 +58,6 @@
             cursor: pointer;
         }
 
-        .content button:hover {
+        .contenido button:hover {
             background-color: #087f88;
         }
